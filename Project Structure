@@ -1,0 +1,18 @@
+app/
+  src/main/java/com/example/s8104001assignment2/
+    App.kt
+    di/NetworkModule.kt
+    data/
+      model/Auth.kt
+      model/Entity.kt
+      remote/Nit3213Api.kt
+      repository/Repo.kt
+    ui/
+      MainActivity.kt
+      login/ (Fragment + VM)
+      dashboard/ (Fragment + VM + Adapter)
+      details/ (Fragment)
+  src/main/res/
+    layout/ (activity_main, fragment_login, fragment_dashboard, item_entity, fragment_details)
+    navigation/nav_graph.xml
+    values/strings.xml
