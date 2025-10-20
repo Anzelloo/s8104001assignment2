@@ -35,3 +35,7 @@ Kotlin MVVM app using Hilt, Retrofit/Moshi, Coroutines, and Navigation.
 - after downloading the raw file, extra that file, and place in android studiod project folder for easy access. Open android studiod choose open and slected the new downloaded project and open it, it will take some time to lunch. After that you will see sync graadle option on top, click that and wwait it to finish. And now you can run the app.
 
 
+## ID/Password
+- Id : Angel
+- Password : 8104001
+- 
